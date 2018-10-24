@@ -61,7 +61,7 @@ A:
     max_longitude: -65.35461169999999
   name: Salta
 B:
-  unofficial_names: Buenos Aires
+  unofficial_names: Provincia de Buenos Aires
   translations:
     en: Buenos Aires Province
     af: Buenos Aires
@@ -70,7 +70,7 @@ B:
     bg: Буенос Айрес
     bn: বুয়েনোস আয়ারস প্রদেশ
     ca: Província de Buenos Aires
-    cs: Buenos Aires
+    cs: Provincia de Buenos Aires
     da: Provincia de Buenos Aires
     de: Provinz Buenos Aires
     el: Μπουένος Άιρες
@@ -125,7 +125,7 @@ B:
     max_longitude: -58.33518840000001
   name: Buenos Aires
 C:
-  unofficial_names: Capital federal
+  unofficial_names: Ciudad Autónoma de Buenos Aires
   translations:
     en: Buenos Aires
     af: Buenos Aires²
@@ -136,11 +136,11 @@ C:
     bg: Буенос Айрес²
     bn: বুয়েনোস আইরেস
     ca: Buenos Aires
-    cs: Buenos Aires²
+    cs: Ciudad Autónoma de Buenos Aires
     da: Buenos Aires
     de: Buenos Aires
     el: Μπουένος Άιρες²
-    es: Buenos Aires
+    es: Ciudad Autónoma de Buenos Aires
     et: Buenos Aires
     eu: Buenos Aires
     fa: بوئنوس آیرس
@@ -204,12 +204,12 @@ D:
     be: Правінцыя Сан-Луіс
     bg: Сан Луис
     bn: স্কোযান লুই প্রদেশ
-    ca: Província de San Luis
+    ca: San Luis
     cs: San Luis
     da: San Luis Province
     de: Provinz San Luis
     el: Σαν Λουίς
-    es: Provincia de San Luis
+    es: San Luis
     eu: San Luisko probintzia
     fa: ایالت سان لوئیز
     fi: San Luisin maakunta
@@ -267,7 +267,7 @@ E:
     da: Entre Ríos
     de: Entre Ríos
     el: Έντρε Ρίος
-    es: Provincia de Entre Ríos
+    es: Entre Ríos
     eu: Entre Ríosko probintzia
     fa: ایالت انتره ریوز
     fi: Entre Ríosin maakunta
@@ -322,12 +322,12 @@ F:
     be: Правінцыя Ла-Рыёха, Аргенціна
     bg: Ла Риоха
     bn: লা রিওজা প্রদেশ
-    ca: Província de La Rioja
+    ca: La Rioja
     cs: La Rioja
     da: Provincia de La Rioja
     de: Provinz La Rioja
     el: Λα Ριότζα
-    es: Provincia de La Rioja
+    es: La Rioja
     eu: La Riojako probintzia
     fa: ایالت لاریوخا، آرژانتین
     fi: La Riojan maakunta
@@ -386,7 +386,7 @@ G:
     da: Provincia de Santiago del Estero
     de: Santiago del Estero (Provinz)
     el: Σαντιάγκο ντελ Εστέρο
-    es: Provincia de Santiago del Estero
+    es: Santiago del Estero
     eu: Santiago del Esteroko probintzia
     fa: ایالت سانتیاگو دل استرو
     fi: Santiago del Esteron maakunta
@@ -445,7 +445,7 @@ H:
     da: Chaco
     de: Provinz Chaco
     el: Τσάκο
-    es: Provincia del Chaco
+    es: Chaco
     et: Chaco provints
     eu: Chacoko probintzia
     fa: ایالت چاکو
@@ -503,12 +503,12 @@ J:
     be: Правінцыя Сан-Хуан
     bg: Сан Хуан
     bn: সান জুয়ান প্রদেশ
-    ca: Província de San Juan
+    ca: San Juan
     cs: San Juan
     da: San Juan Province
     de: Provinz San Juan
     el: Σαν Χουάν
-    es: Provincia de San Juan
+    es: San Juan
     eu: San Juango probintzia
     fa: ایالت سن خوآن
     fi: San Juanin maakunta
@@ -614,8 +614,7 @@ K:
     max_longitude: -65.7289342
   name: Catamarca
 L:
-  unofficial_names:
-  - Pampa
+  unofficial_names: La Pampa
   translations:
     en: La Pampa
     ar: لا بامبا
@@ -627,7 +626,7 @@ L:
     da: La Pampa
     de: Provinz La Pampa
     el: Λα Πάμπα
-    es: Provincia de La Pampa
+    es: La Pampa
     eu: La Pampako probintzia
     fa: ایالت لا پامپا
     fi: La Pampan maakunta
@@ -685,7 +684,7 @@ M:
     da: Mendoza
     de: Provinz Mendoza
     el: Μεντόζα
-    es: Provincia de Mendoza
+    es: Mendoza
     eu: Mendozako probintzia
     fa: ایالت مندوزا
     fi: Mendozan maakunta
@@ -746,7 +745,7 @@ N:
     da: Provincia de Misiones
     de: Misiones
     el: Μισιόνες
-    es: Provincia de Misiones
+    es: Misiones
     eu: Misionesko probintzia
     fa: ایالت میسیونز
     fi: Misionesin maakunta
@@ -804,7 +803,7 @@ P:
     da: Provincia de Formosa
     de: Provinz Formosa
     el: Φορμόσα
-    es: Provincia de Formosa
+    es: Formosa
     eu: Formosako probintzia
     fa: ایالت فرموزا
     fi: Formosan maakunta
@@ -863,7 +862,7 @@ Q:
     da: Provincia de Neuquén
     de: Provinz Neuquén
     el: Επαρχία του Νεουκέν
-    es: Provincia de Neuquén
+    es: Neuquén
     eu: Neuquengo probintzia
     fa: ایالت نئوکن
     fi: Neuquénin maakunta
@@ -924,7 +923,7 @@ R:
     da: Río Negro
     de: Provinz Río Negro
     el: Επαρχία Ρίο Νέγκρο
-    es: Provincia de Río Negro
+    es: Río Negro
     eu: Río Negroko probintzia
     fa: ایالت ریو نگرو
     fi: Río Negron maakunta
@@ -983,7 +982,7 @@ S:
     da: Santa Fe
     de: Provinz Santa Fe
     el: Σάντα Φε (επαρχία)
-    es: Provincia de Santa Fe
+    es: Santa Fe
     eu: Santa Feko probintzia
     fa: ایالت سانتا فه
     fi: Santa Fen maakunta
@@ -1041,7 +1040,7 @@ T:
     da: Provincia de Tucumán
     de: Provinz Tucumán
     el: Τουκουμάν
-    es: Provincia de Tucumán
+    es: Tucumán
     eu: Tucumángo probintzia
     fa: ایالت توکومان
     fi: Tucumánin maakunta
@@ -1101,7 +1100,7 @@ U:
     da: Chubut
     de: Provinz Chubut
     el: Επαρχία του Τσουμπούτ
-    es: Provincia del Chubut
+    es: Chubut
     eu: Chubuteko probintzia
     fa: ایالت چوبوت
     fi: Chubutin maakunta
@@ -1163,7 +1162,7 @@ V:
     da: Tierra del Fuego Province
     de: Provinz Tierra del Fuego
     el: Τιέρα ντελ Φουέγκο
-    es: Provincia de Tierra del Fuego, Antártida e islas del Atlántico Sur
+    es: Tierra del Fuego
     et: Tulemaa provints
     eu: Suaren Lurraldea, Antartika eta Hego Atlantikoko Uharteak
     fa: ایالت تیرا دل فوئگو
@@ -1224,7 +1223,7 @@ W:
     da: Provincia de Corrientes
     de: Provinz Corrientes
     el: Κορριέντες
-    es: Provincia de Corrientes
+    es: Corrientes
     eu: Corrientesko probintzia
     fa: ایالت کورینتس
     fi: Corrientesin maakunta
@@ -1283,7 +1282,7 @@ X:
     da: Provincia de Córdoba
     de: Córdoba
     el: Κόρντομπα
-    es: Provincia de Córdoba
+    es: Córdoba
     et: Córdoba provints
     eu: Córdobako probintzia
     fa: ایالت کوردوبا
@@ -1343,7 +1342,7 @@ Y:
     da: Jujuy
     de: Provinz Jujuy
     el: Τζουτζούι
-    es: Provincia de Jujuy
+    es: Jujuy
     et: Jujuy
     eu: Jujuyko probintzia
     fa: ایالت خوخوی
@@ -1404,7 +1403,7 @@ Z:
     da: Santa Cruz
     de: Provinz Santa Cruz
     el: Επαρχία Σάντα Κρους
-    es: Provincia de Santa Cruz
+    es: Santa Cruz
     et: Santa Cruzi provints
     eu: Santa Cruzko probintzia
     fa: ایالت سانتا کروس، آرژانتین
